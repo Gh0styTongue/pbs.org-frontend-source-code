@@ -1,0 +1,9 @@
+__turbopack_context__.v({
+  "has_drop_down": "MyListMenuItem-module-scss-module__xpFxCW__has_drop_down",
+  "my_list_icon": "MyListMenuItem-module-scss-module__xpFxCW__my_list_icon",
+  "my_list_link": "MyListMenuItem-module-scss-module__xpFxCW__my_list_link",
+  "my_list_menu": "MyListMenuItem-module-scss-module__xpFxCW__my_list_menu",
+  "my_list_menu_inner": "MyListMenuItem-module-scss-module__xpFxCW__my_list_menu_inner",
+  "my_list_menu_intro": "MyListMenuItem-module-scss-module__xpFxCW__my_list_menu_intro",
+  "my_list_menu_item": "MyListMenuItem-module-scss-module__xpFxCW__my_list_menu_item",
+});

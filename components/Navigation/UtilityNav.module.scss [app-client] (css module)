@@ -1,0 +1,13 @@
+__turbopack_context__.v({
+  "home_link": "UtilityNav-module-scss-module__R7DPYG__home_link",
+  "live_tv_icon": "UtilityNav-module-scss-module__R7DPYG__live_tv_icon",
+  "my_station_icon": "UtilityNav-module-scss-module__R7DPYG__my_station_icon",
+  "push": "UtilityNav-module-scss-module__R7DPYG__push",
+  "shows_icon": "UtilityNav-module-scss-module__R7DPYG__shows_icon",
+  "svp_home_link": "UtilityNav-module-scss-module__R7DPYG__svp_home_link",
+  "svp_station_logo": "UtilityNav-module-scss-module__R7DPYG__svp_station_logo",
+  "utility_nav": "UtilityNav-module-scss-module__R7DPYG__utility_nav",
+  "utility_nav__scrolled": "UtilityNav-module-scss-module__R7DPYG__utility_nav__scrolled",
+  "utility_nav_link_active": "UtilityNav-module-scss-module__R7DPYG__utility_nav_link_active",
+  "utility_nav_links": "UtilityNav-module-scss-module__R7DPYG__utility_nav_links",
+});

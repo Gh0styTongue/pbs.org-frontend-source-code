@@ -1,0 +1,18 @@
+__turbopack_context__.v({
+  "airing_expiring_rating": "VideoPlayerOverlay-module-scss-module__T2FjtW__airing_expiring_rating",
+  "compass_rose_icon": "VideoPlayerOverlay-module-scss-module__T2FjtW__compass_rose_icon",
+  "nav_link": "VideoPlayerOverlay-module-scss-module__T2FjtW__nav_link",
+  "nav_link__logo": "VideoPlayerOverlay-module-scss-module__T2FjtW__nav_link__logo",
+  "nav_link__title": "VideoPlayerOverlay-module-scss-module__T2FjtW__nav_link__title",
+  "overlay_details": "VideoPlayerOverlay-module-scss-module__T2FjtW__overlay_details",
+  "video_audio_description": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_audio_description",
+  "video_description": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_description",
+  "video_image": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_image",
+  "video_meta_data": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_meta_data",
+  "video_player_container": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_player_container",
+  "video_player_iframe": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_player_iframe",
+  "video_player_overlay": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_player_overlay",
+  "video_player_overlay_hidden": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_player_overlay_hidden",
+  "video_player_overlay_hidden_transition": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_player_overlay_hidden_transition",
+  "video_title": "VideoPlayerOverlay-module-scss-module__T2FjtW__video_title",
+});

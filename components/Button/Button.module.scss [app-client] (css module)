@@ -1,0 +1,13 @@
+__turbopack_context__.v({
+  "blue": "Button-module-scss-module__gW1A4G__blue",
+  "blue_ghost": "Button-module-scss-module__gW1A4G__blue_ghost",
+  "heart_icon": "Button-module-scss-module__gW1A4G__heart_icon",
+  "light_blue": "Button-module-scss-module__gW1A4G__light_blue",
+  "link_button_content_disabled": "Button-module-scss-module__gW1A4G__link_button_content_disabled",
+  "max": "Button-module-scss-module__gW1A4G__max",
+  "min": "Button-module-scss-module__gW1A4G__min",
+  "red": "Button-module-scss-module__gW1A4G__red",
+  "white": "Button-module-scss-module__gW1A4G__white",
+  "white_ghost": "Button-module-scss-module__gW1A4G__white_ghost",
+  "yellow": "Button-module-scss-module__gW1A4G__yellow",
+});

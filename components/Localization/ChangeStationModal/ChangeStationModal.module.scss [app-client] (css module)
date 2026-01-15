@@ -1,0 +1,15 @@
+__turbopack_context__.v({
+  "change_station_dialog": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog",
+  "change_station_dialog__button": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__button",
+  "change_station_dialog__close": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__close",
+  "change_station_dialog__form": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__form",
+  "change_station_dialog__header": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__header",
+  "change_station_dialog__inner": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__inner",
+  "change_station_dialog__input": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__input",
+  "change_station_dialog__select": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__select",
+  "change_station_dialog__text": "ChangeStationModal-module-scss-module__MbtwAW__change_station_dialog__text",
+  "close_icon": "ChangeStationModal-module-scss-module__MbtwAW__close_icon",
+  "station_option": "ChangeStationModal-module-scss-module__MbtwAW__station_option",
+  "stations_list": "ChangeStationModal-module-scss-module__MbtwAW__stations_list",
+  "stations_list_item": "ChangeStationModal-module-scss-module__MbtwAW__stations_list_item",
+});

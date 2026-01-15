@@ -1,0 +1,14 @@
+__turbopack_context__.v({
+  "apple_logo": "SignInModal-module-scss-module__XBdH8q__apple_logo",
+  "create_account": "SignInModal-module-scss-module__XBdH8q__create_account",
+  "disclaimer": "SignInModal-module-scss-module__XBdH8q__disclaimer",
+  "email_btn": "SignInModal-module-scss-module__XBdH8q__email_btn",
+  "facebook_logo": "SignInModal-module-scss-module__XBdH8q__facebook_logo",
+  "google_logo": "SignInModal-module-scss-module__XBdH8q__google_logo",
+  "my_list_blurb": "SignInModal-module-scss-module__XBdH8q__my_list_blurb",
+  "or": "SignInModal-module-scss-module__XBdH8q__or",
+  "pbs_head_logo": "SignInModal-module-scss-module__XBdH8q__pbs_head_logo",
+  "signin_modal": "SignInModal-module-scss-module__XBdH8q__signin_modal",
+  "signin_modal_inner": "SignInModal-module-scss-module__XBdH8q__signin_modal_inner",
+  "social_btn": "SignInModal-module-scss-module__XBdH8q__social_btn",
+});

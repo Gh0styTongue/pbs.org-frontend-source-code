@@ -1,0 +1,15 @@
+__turbopack_context__.v({
+  "passport_benefit_explanation": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_explanation",
+  "passport_benefit_headline": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_headline",
+  "passport_benefit_headline_intro": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_headline_intro",
+  "passport_benefit_plm_link_lg": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_plm_link_lg",
+  "passport_benefit_plm_link_small": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_plm_link_small",
+  "passport_benefit_screen": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_screen",
+  "passport_benefit_screen_ctas": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_screen_ctas",
+  "passport_benefit_screen_passport_compass": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_screen_passport_compass",
+  "passport_benefit_screen_support": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_screen_support",
+  "passport_benefit_station_lockup": "PassportBenefitScreen-module-scss-module__NiPUJG__passport_benefit_station_lockup",
+  "video_image": "PassportBenefitScreen-module-scss-module__NiPUJG__video_image",
+  "video_player_container": "PassportBenefitScreen-module-scss-module__NiPUJG__video_player_container",
+  "video_player_iframe": "PassportBenefitScreen-module-scss-module__NiPUJG__video_player_iframe",
+});

@@ -1,0 +1,15 @@
+__turbopack_context__.v({
+  "event": "Event-module-scss-module__mM8I4G__event",
+  "event_content": "Event-module-scss-module__mM8I4G__event_content",
+  "event_date": "Event-module-scss-module__mM8I4G__event_date",
+  "event_day": "Event-module-scss-module__mM8I4G__event_day",
+  "event_details": "Event-module-scss-module__mM8I4G__event_details",
+  "event_info": "Event-module-scss-module__mM8I4G__event_info",
+  "event_link_icon": "Event-module-scss-module__mM8I4G__event_link_icon",
+  "event_location": "Event-module-scss-module__mM8I4G__event_location",
+  "event_month": "Event-module-scss-module__mM8I4G__event_month",
+  "event_name": "Event-module-scss-module__mM8I4G__event_name",
+  "event_pre": "Event-module-scss-module__mM8I4G__event_pre",
+  "event_with_link": "Event-module-scss-module__mM8I4G__event_with_link",
+  "event_without_link": "Event-module-scss-module__mM8I4G__event_without_link",
+});

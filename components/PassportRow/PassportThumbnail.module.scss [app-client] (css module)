@@ -1,0 +1,11 @@
+__turbopack_context__.v({
+  "passport_buttons": "PassportThumbnail-module-scss-module__A0uSgG__passport_buttons",
+  "passport_show_info": "PassportThumbnail-module-scss-module__A0uSgG__passport_show_info",
+  "passport_thumbnail": "PassportThumbnail-module-scss-module__A0uSgG__passport_thumbnail",
+  "passport_thumbnail_image": "PassportThumbnail-module-scss-module__A0uSgG__passport_thumbnail_image",
+  "passport_thumbnail_image_link": "PassportThumbnail-module-scss-module__A0uSgG__passport_thumbnail_image_link",
+  "passport_thumbnail_passport_badge": "PassportThumbnail-module-scss-module__A0uSgG__passport_thumbnail_passport_badge",
+  "show_description": "PassportThumbnail-module-scss-module__A0uSgG__show_description",
+  "show_logo": "PassportThumbnail-module-scss-module__A0uSgG__show_logo",
+  "show_title": "PassportThumbnail-module-scss-module__A0uSgG__show_title",
+});

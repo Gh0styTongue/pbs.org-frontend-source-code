@@ -1,0 +1,10 @@
+__turbopack_context__.v({
+  "passport_row_ctas": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_ctas",
+  "passport_row_description": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_description",
+  "passport_row_donate_button": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_donate_button",
+  "passport_row_explore_button": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_explore_button",
+  "passport_row_header": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_header",
+  "passport_row_learn_more_link": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_learn_more_link",
+  "passport_row_learn_more_link_button": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_learn_more_link_button",
+  "passport_row_title": "PassportRowHeader-module-scss-module__DUMDOq__passport_row_title",
+});

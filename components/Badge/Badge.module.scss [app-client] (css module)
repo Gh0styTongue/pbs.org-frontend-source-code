@@ -1,0 +1,16 @@
+__turbopack_context__.v({
+  "coral": "Badge-module-scss-module__Wzi7zW__coral",
+  "coral_midnight": "Badge-module-scss-module__Wzi7zW__coral_midnight",
+  "genre": "Badge-module-scss-module__Wzi7zW__genre",
+  "live": "Badge-module-scss-module__Wzi7zW__live",
+  "passport": "Badge-module-scss-module__Wzi7zW__passport",
+  "passport_outline": "Badge-module-scss-module__Wzi7zW__passport_outline",
+  "rating": "Badge-module-scss-module__Wzi7zW__rating",
+  "red": "Badge-module-scss-module__Wzi7zW__red",
+  "red_outline": "Badge-module-scss-module__Wzi7zW__red_outline",
+  "teal": "Badge-module-scss-module__Wzi7zW__teal",
+  "teal_midnight": "Badge-module-scss-module__Wzi7zW__teal_midnight",
+  "teal_outline": "Badge-module-scss-module__Wzi7zW__teal_outline",
+  "yellow": "Badge-module-scss-module__Wzi7zW__yellow",
+  "yellow_outline": "Badge-module-scss-module__Wzi7zW__yellow_outline",
+});

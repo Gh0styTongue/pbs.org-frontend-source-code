@@ -1,0 +1,8 @@
+__turbopack_context__.v({
+  "foo": "VideoMezzanineLink-module-scss-module__tmNsCa__foo",
+  "passport_cta": "VideoMezzanineLink-module-scss-module__tmNsCa__passport_cta",
+  "video_mezzanine_link_badge": "VideoMezzanineLink-module-scss-module__tmNsCa__video_mezzanine_link_badge",
+  "video_mezzanine_link_now_playing": "VideoMezzanineLink-module-scss-module__tmNsCa__video_mezzanine_link_now_playing",
+  "video_mezzanine_link_passport_badge": "VideoMezzanineLink-module-scss-module__tmNsCa__video_mezzanine_link_passport_badge",
+  "video_mezzanine_link_wrapper": "VideoMezzanineLink-module-scss-module__tmNsCa__video_mezzanine_link_wrapper",
+});

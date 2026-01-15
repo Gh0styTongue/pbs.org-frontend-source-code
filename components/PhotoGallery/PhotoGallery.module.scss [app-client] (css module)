@@ -1,0 +1,14 @@
+__turbopack_context__.v({
+  "photo_gallery": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery",
+  "photo_gallery__caption_text": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__caption_text",
+  "photo_gallery__container": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__container",
+  "photo_gallery__figcaption_container": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__figcaption_container",
+  "photo_gallery__figcaption_credit_text": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__figcaption_credit_text",
+  "photo_gallery__figcaption_pagination": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__figcaption_pagination",
+  "photo_gallery__figure": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__figure",
+  "photo_gallery__photos": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__photos",
+  "photo_gallery__splide_arrow": "PhotoGallery-module-scss-module__5u_N8q__photo_gallery__splide_arrow",
+  "splide__arrow": "PhotoGallery-module-scss-module__5u_N8q__splide__arrow",
+  "splide__list": "PhotoGallery-module-scss-module__5u_N8q__splide__list",
+  "splide__slide": "PhotoGallery-module-scss-module__5u_N8q__splide__slide",
+});

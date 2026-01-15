@@ -1,0 +1,18 @@
+__turbopack_context__.v({
+  "banner-fade-in": "ConfigurableBadge-module-scss-module__vg6Glq__banner-fade-in",
+  "banner-slide-down": "ConfigurableBadge-module-scss-module__vg6Glq__banner-slide-down",
+  "configurable_badge": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge",
+  "configurable_badge__close_button": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge__close_button",
+  "configurable_badge__cta": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge__cta",
+  "configurable_badge__headline": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge__headline",
+  "configurable_badge__show_logo": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge__show_logo",
+  "configurable_badge__wrapper": "ConfigurableBadge-module-scss-module__vg6Glq__configurable_badge__wrapper",
+  "half": "ConfigurableBadge-module-scss-module__vg6Glq__half",
+  "light_blue": "ConfigurableBadge-module-scss-module__vg6Glq__light_blue",
+  "next_icon": "ConfigurableBadge-module-scss-module__vg6Glq__next_icon",
+  "passport_lockup": "ConfigurableBadge-module-scss-module__vg6Glq__passport_lockup",
+  "quarter": "ConfigurableBadge-module-scss-module__vg6Glq__quarter",
+  "red": "ConfigurableBadge-module-scss-module__vg6Glq__red",
+  "teal": "ConfigurableBadge-module-scss-module__vg6Glq__teal",
+  "yellow": "ConfigurableBadge-module-scss-module__vg6Glq__yellow",
+});

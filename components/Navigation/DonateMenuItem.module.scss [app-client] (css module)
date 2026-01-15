@@ -1,0 +1,9 @@
+__turbopack_context__.v({
+  "donate_icon": "DonateMenuItem-module-scss-module__Lf9vAq__donate_icon",
+  "donate_illustration": "DonateMenuItem-module-scss-module__Lf9vAq__donate_illustration",
+  "donate_link": "DonateMenuItem-module-scss-module__Lf9vAq__donate_link",
+  "donate_menu": "DonateMenuItem-module-scss-module__Lf9vAq__donate_menu",
+  "donate_menu_inner": "DonateMenuItem-module-scss-module__Lf9vAq__donate_menu_inner",
+  "donate_menu_intro": "DonateMenuItem-module-scss-module__Lf9vAq__donate_menu_intro",
+  "donate_menu_item": "DonateMenuItem-module-scss-module__Lf9vAq__donate_menu_item",
+});

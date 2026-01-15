@@ -1,0 +1,2 @@
+import src from "IMAGE";
+export default { src, width: 217, height: 170, blurWidth: 0, blurHeight: 0};

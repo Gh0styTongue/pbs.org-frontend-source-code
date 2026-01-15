@@ -1,0 +1,10 @@
+__turbopack_context__.v({
+  "donate_row": "DonateRow-module-scss-module__CWBWDq__donate_row",
+  "donate_row__background": "DonateRow-module-scss-module__CWBWDq__donate_row__background",
+  "donate_row__button": "DonateRow-module-scss-module__CWBWDq__donate_row__button",
+  "donate_row__button_text": "DonateRow-module-scss-module__CWBWDq__donate_row__button_text",
+  "donate_row__content": "DonateRow-module-scss-module__CWBWDq__donate_row__content",
+  "donate_row__foreground_image": "DonateRow-module-scss-module__CWBWDq__donate_row__foreground_image",
+  "donate_row__inner": "DonateRow-module-scss-module__CWBWDq__donate_row__inner",
+  "donate_row__title": "DonateRow-module-scss-module__CWBWDq__donate_row__title",
+});

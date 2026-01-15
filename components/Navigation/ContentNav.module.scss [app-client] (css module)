@@ -1,0 +1,12 @@
+__turbopack_context__.v({
+  "all_genres_menu": "ContentNav-module-scss-module__FxNClq__all_genres_menu",
+  "all_genres_nav_item": "ContentNav-module-scss-module__FxNClq__all_genres_nav_item",
+  "content_nav": "ContentNav-module-scss-module__FxNClq__content_nav",
+  "content_nav__scrolled": "ContentNav-module-scss-module__FxNClq__content_nav__scrolled",
+  "content_nav__splide_arrow": "ContentNav-module-scss-module__FxNClq__content_nav__splide_arrow",
+  "content_nav_item": "ContentNav-module-scss-module__FxNClq__content_nav_item",
+  "content_nav_link": "ContentNav-module-scss-module__FxNClq__content_nav_link",
+  "content_nav_link__active": "ContentNav-module-scss-module__FxNClq__content_nav_link__active",
+  "content_nav_list": "ContentNav-module-scss-module__FxNClq__content_nav_list",
+  "passport_compass": "ContentNav-module-scss-module__FxNClq__passport_compass",
+});

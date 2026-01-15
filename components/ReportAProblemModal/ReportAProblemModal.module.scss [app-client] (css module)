@@ -1,0 +1,11 @@
+__turbopack_context__.v({
+  "report_a_problem_modal": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal",
+  "report_a_problem_modal__buttons": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__buttons",
+  "report_a_problem_modal__default": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__default",
+  "report_a_problem_modal__error": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__error",
+  "report_a_problem_modal__inner": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__inner",
+  "report_a_problem_modal__signed_in": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__signed_in",
+  "report_a_problem_modal__submitting": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__submitting",
+  "report_a_problem_modal__success": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__success",
+  "report_a_problem_modal__textarea": "ReportAProblemModal-module-scss-module__bu4EwW__report_a_problem_modal__textarea",
+});

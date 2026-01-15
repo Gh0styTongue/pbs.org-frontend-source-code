@@ -1,0 +1,9 @@
+__turbopack_context__.v({
+  "parent_link": "VideoDetailThumbnail-module-scss-module__jjps6a__parent_link",
+  "video_description": "VideoDetailThumbnail-module-scss-module__jjps6a__video_description",
+  "video_detail_accessibility_icons": "VideoDetailThumbnail-module-scss-module__jjps6a__video_detail_accessibility_icons",
+  "video_detail_show_title": "VideoDetailThumbnail-module-scss-module__jjps6a__video_detail_show_title",
+  "video_detail_thumbnail": "VideoDetailThumbnail-module-scss-module__jjps6a__video_detail_thumbnail",
+  "video_detail_thumbnail_container": "VideoDetailThumbnail-module-scss-module__jjps6a__video_detail_thumbnail_container",
+  "video_title": "VideoDetailThumbnail-module-scss-module__jjps6a__video_title",
+});

@@ -1,0 +1,18 @@
+__turbopack_context__.v({
+  "embed_modal": "EmbedModal-module-scss-module__14i-zG__embed_modal",
+  "embed_modal__btn_close": "EmbedModal-module-scss-module__14i-zG__embed_modal__btn_close",
+  "embed_modal__copy_button": "EmbedModal-module-scss-module__14i-zG__embed_modal__copy_button",
+  "embed_modal__dialog": "EmbedModal-module-scss-module__14i-zG__embed_modal__dialog",
+  "embed_modal__edit_dimensions": "EmbedModal-module-scss-module__14i-zG__embed_modal__edit_dimensions",
+  "embed_modal__iframe_title": "EmbedModal-module-scss-module__14i-zG__embed_modal__iframe_title",
+  "embed_modal__image": "EmbedModal-module-scss-module__14i-zG__embed_modal__image",
+  "embed_modal__info": "EmbedModal-module-scss-module__14i-zG__embed_modal__info",
+  "embed_modal__input_button": "EmbedModal-module-scss-module__14i-zG__embed_modal__input_button",
+  "embed_modal__meta": "EmbedModal-module-scss-module__14i-zG__embed_modal__meta",
+  "embed_modal__show_title": "EmbedModal-module-scss-module__14i-zG__embed_modal__show_title",
+  "embed_modal__text_for_copying": "EmbedModal-module-scss-module__14i-zG__embed_modal__text_for_copying",
+  "embed_modal__topbar": "EmbedModal-module-scss-module__14i-zG__embed_modal__topbar",
+  "embed_modal__topbar_title": "EmbedModal-module-scss-module__14i-zG__embed_modal__topbar_title",
+  "embed_modal__video_title": "EmbedModal-module-scss-module__14i-zG__embed_modal__video_title",
+  "embed_window__content": "EmbedModal-module-scss-module__14i-zG__embed_window__content",
+});

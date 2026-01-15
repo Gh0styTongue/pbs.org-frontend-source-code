@@ -1,0 +1,2 @@
+import src from "IMAGE";
+export default { src, width: 2778, height: 736, blurWidth: 8, blurHeight: 2, blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAACCAYAAABllJ3tAAAATUlEQVR42gFCAL3/ABkhPvgmJz/3JihB9yMhPfgvCir4DBM1+BAfP/cTH0D3ABIZNPkaHDP5HRwy+RwVLfooCyr6DRM0+hEYM/gWGDL41SgWL1bJj9QAAAAASUVORK5CYII="};

@@ -1,0 +1,14 @@
+__turbopack_context__.v({
+  "fe1": "LoadingSpinner-module-scss-module__wroTyG__fe1",
+  "fe2": "LoadingSpinner-module-scss-module__wroTyG__fe2",
+  "fe3": "LoadingSpinner-module-scss-module__wroTyG__fe3",
+  "fe4": "LoadingSpinner-module-scss-module__wroTyG__fe4",
+  "fe5": "LoadingSpinner-module-scss-module__wroTyG__fe5",
+  "fe6": "LoadingSpinner-module-scss-module__wroTyG__fe6",
+  "fe7": "LoadingSpinner-module-scss-module__wroTyG__fe7",
+  "loading_spinner": "LoadingSpinner-module-scss-module__wroTyG__loading_spinner",
+  "loading_spinner__dep_reduced_motion": "LoadingSpinner-module-scss-module__wroTyG__loading_spinner__dep_reduced_motion",
+  "loading_spinner__text": "LoadingSpinner-module-scss-module__wroTyG__loading_spinner__text",
+  "loading_spinner_svg": "LoadingSpinner-module-scss-module__wroTyG__loading_spinner_svg",
+  "spin": "LoadingSpinner-module-scss-module__wroTyG__spin",
+});

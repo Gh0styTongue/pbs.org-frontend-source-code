@@ -1,0 +1,13 @@
+__turbopack_context__.v({
+  "autocomplete_container": "SearchMenu-module-scss-module__GeHO2W__autocomplete_container",
+  "autocomplete_results": "SearchMenu-module-scss-module__GeHO2W__autocomplete_results",
+  "is_open": "SearchMenu-module-scss-module__GeHO2W__is_open",
+  "no_results_button": "SearchMenu-module-scss-module__GeHO2W__no_results_button",
+  "search_form": "SearchMenu-module-scss-module__GeHO2W__search_form",
+  "search_input": "SearchMenu-module-scss-module__GeHO2W__search_input",
+  "search_link": "SearchMenu-module-scss-module__GeHO2W__search_link",
+  "search_menu": "SearchMenu-module-scss-module__GeHO2W__search_menu",
+  "search_menu_inner": "SearchMenu-module-scss-module__GeHO2W__search_menu_inner",
+  "search_menu_wrapper": "SearchMenu-module-scss-module__GeHO2W__search_menu_wrapper",
+  "search_submit_button": "SearchMenu-module-scss-module__GeHO2W__search_submit_button",
+});

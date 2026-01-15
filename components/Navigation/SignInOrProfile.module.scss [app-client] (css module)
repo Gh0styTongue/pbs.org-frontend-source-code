@@ -1,0 +1,12 @@
+__turbopack_context__.v({
+  "close_icon": "SignInOrProfile-module-scss-module__2rt2Dq__close_icon",
+  "profile": "SignInOrProfile-module-scss-module__2rt2Dq__profile",
+  "sign_in": "SignInOrProfile-module-scss-module__2rt2Dq__sign_in",
+  "sign_in_menu": "SignInOrProfile-module-scss-module__2rt2Dq__sign_in_menu",
+  "sign_in_or_profile": "SignInOrProfile-module-scss-module__2rt2Dq__sign_in_or_profile",
+  "sign_in_or_profile_svp": "SignInOrProfile-module-scss-module__2rt2Dq__sign_in_or_profile_svp",
+  "user_button": "SignInOrProfile-module-scss-module__2rt2Dq__user_button",
+  "user_image_inital": "SignInOrProfile-module-scss-module__2rt2Dq__user_image_inital",
+  "user_menu": "SignInOrProfile-module-scss-module__2rt2Dq__user_menu",
+  "user_menu_is_open": "SignInOrProfile-module-scss-module__2rt2Dq__user_menu_is_open",
+});

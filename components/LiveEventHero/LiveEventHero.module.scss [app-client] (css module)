@@ -1,0 +1,9 @@
+__turbopack_context__.v({
+  "live_event_description": "LiveEventHero-module-scss-module__8Nuf0a__live_event_description",
+  "live_event_hero": "LiveEventHero-module-scss-module__8Nuf0a__live_event_hero",
+  "live_event_hero_background": "LiveEventHero-module-scss-module__8Nuf0a__live_event_hero_background",
+  "live_event_hero_overlay": "LiveEventHero-module-scss-module__8Nuf0a__live_event_hero_overlay",
+  "live_event_hero_overlay_buttons": "LiveEventHero-module-scss-module__8Nuf0a__live_event_hero_overlay_buttons",
+  "live_event_show_logo": "LiveEventHero-module-scss-module__8Nuf0a__live_event_show_logo",
+  "live_event_title": "LiveEventHero-module-scss-module__8Nuf0a__live_event_title",
+});

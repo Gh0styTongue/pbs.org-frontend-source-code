@@ -1,0 +1,13 @@
+__turbopack_context__.v({
+  "channel_logo": "ChannelThumbnail-module-scss-module__Nd7elG__channel_logo",
+  "channel_name": "ChannelThumbnail-module-scss-module__Nd7elG__channel_name",
+  "channel_thumbnail": "ChannelThumbnail-module-scss-module__Nd7elG__channel_thumbnail",
+  "channel_thumbnail_image": "ChannelThumbnail-module-scss-module__Nd7elG__channel_thumbnail_image",
+  "channel_thumbnail_info": "ChannelThumbnail-module-scss-module__Nd7elG__channel_thumbnail_info",
+  "episode_title": "ChannelThumbnail-module-scss-module__Nd7elG__episode_title",
+  "live_badge": "ChannelThumbnail-module-scss-module__Nd7elG__live_badge",
+  "live_indicator": "ChannelThumbnail-module-scss-module__Nd7elG__live_indicator",
+  "no_image_fallback": "ChannelThumbnail-module-scss-module__Nd7elG__no_image_fallback",
+  "show_title": "ChannelThumbnail-module-scss-module__Nd7elG__show_title",
+  "signal_icon": "ChannelThumbnail-module-scss-module__Nd7elG__signal_icon",
+});

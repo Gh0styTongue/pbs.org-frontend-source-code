@@ -1,0 +1,13 @@
+__turbopack_context__.v({
+  "fade-in": "UrgentMessagePopover-module-scss-module__mCrdva__fade-in",
+  "urgent_message_popover": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover",
+  "urgent_message_popover_close_button": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_close_button",
+  "urgent_message_popover_content": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_content",
+  "urgent_message_popover_donate_button": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_donate_button",
+  "urgent_message_popover_donate_button_heart_icon": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_donate_button_heart_icon",
+  "urgent_message_popover_donate_button_station": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_donate_button_station",
+  "urgent_message_popover_headline": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_headline",
+  "urgent_message_popover_illustration": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_illustration",
+  "urgent_message_popover_text": "UrgentMessagePopover-module-scss-module__mCrdva__urgent_message_popover_text",
+  "vanish": "UrgentMessagePopover-module-scss-module__mCrdva__vanish",
+});
