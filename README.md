@@ -4,7 +4,7 @@ Extracted from [https://pbs.org/](https://pbs.org/). Saved using the Chrome exte
 
 ### How is this possible?
 
-Because PBS forgot to disable sourcemaps in production on the pbs-player 🙃
+Because PBS forgot to disable sourcemaps in production on the [https://pbs.org/](https://pbs.org/) 🙃
 
 I've archived them here on GitHub for educational purposes.
 
